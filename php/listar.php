@@ -30,6 +30,6 @@ json_encode(['cursos01'=>$cursos]); //ele ta colocando tudo num arquivo só
 //ele ta transformando um vetor de cursos em json
 
 //test
-// //verifique a porta do apache, localhost:80/api
+//var_dump($cursos); //verifique a porta do apache, localhost:80/api
 
 ?>
